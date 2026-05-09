@@ -1,0 +1,11 @@
+- type: soundCollection
+  id: CMFemaleMedic
+  files:
+    - /Audio/_RMC14/Voice/Human/female_medic.ogg
+
+- type: soundCollection
+  id: CMMaleMedic
+  files:
+    - /Audio/_RMC14/Voice/Human/male_medic_1.ogg
+    - /Audio/_RMC14/Voice/Human/male_medic_2.ogg
+    - /Audio/_RMC14/Voice/Human/male_medic_3.ogg
