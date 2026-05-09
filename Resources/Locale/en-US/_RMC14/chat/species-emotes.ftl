@@ -54,3 +54,7 @@ rmc-emote-name-slime-wobble = Wobble
 rmc-emote-slime-bubble = bubbles.
 rmc-emote-slime-pop = pops!
 rmc-emote-slime-wobble = wobbles.
+
+rmc-emote-name-medic = Need Medic!
+
+rmc-emote-medic = MEDIC!!!
