@@ -28,6 +28,8 @@
       collection: MaleGasp
     DefaultDeathgasp:
       collection: MaleDeathGasp
+    RMCNeedMedic:
+      collection: CMMaleMedic
 
 - type: emoteSounds
   parent: RMCBaseHumanoidSounds
@@ -48,3 +50,5 @@
       collection: FemaleGasp
     DefaultDeathgasp:
       collection: FemaleDeathGasp
+    RMCNeedMedic:
+      collection: CMFemaleMedic
