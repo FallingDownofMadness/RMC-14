@@ -396,3 +396,22 @@
   - wobbling
   - wibbles 
   - wibbling
+
+- type: emote
+  id: RMCNeedMedic
+  name: rmc-emote-name-medic
+  category: Vocal
+  available: false
+  icon: _RMC14/Actions/xeno_emotes.rsi/help.png
+  whitelist:
+    components: 
+    - Vocal
+  blacklist:
+    components:
+    - BorgChassis
+  chatMessages: ["rmc-emote-medic"]
+  chatTriggers:
+  - doctor
+  - doc
+  - corpsman 
+  - medic
