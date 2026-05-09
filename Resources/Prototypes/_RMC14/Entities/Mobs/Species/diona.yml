@@ -22,7 +22,7 @@
         sprite: Mobs/Effects/burn_damage.rsi
   - type: Speech
     speechVerb: Plant
-    allowedEmotes: ['Chirp']
+    allowedEmotes: ['Chirp', 'RMCNeedMedic']
   - type: TypingIndicator
     proto: diona
   - type: Vocal

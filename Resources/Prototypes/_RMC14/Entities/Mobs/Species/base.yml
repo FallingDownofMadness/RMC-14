@@ -1,4 +1,4 @@
-﻿- type: entity
+- type: entity
   save: false
   parent: BaseMobSpecies
   id: RMCBaseMobSpeciesOrganic
@@ -374,3 +374,5 @@
     hideLayersOnEquip:
     - UndergarmentTop
     - Hair
+  - type: Speech
+    allowedEmotes: ['RMCNeedMedic']

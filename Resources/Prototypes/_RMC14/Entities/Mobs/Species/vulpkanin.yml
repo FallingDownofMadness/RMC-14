@@ -19,7 +19,7 @@
   - type: VulpkaninAccent
   - type: Speech
     speechVerb: Vulpkanin
-    allowedEmotes: [ 'Bark', 'Snarl', 'Whine', 'Growl', 'Yip' ]
+    allowedEmotes: [ 'Bark', 'Snarl', 'Whine', 'Growl', 'Yip', 'RMCNeedMedic' ]
   - type: Vocal
     sounds:
       Male: RMCMaleVulpkanin

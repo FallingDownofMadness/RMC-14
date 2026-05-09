@@ -19,7 +19,7 @@
   - type: Speech
     speechVerb: Rodentia
     speechSounds: Squeak
-    allowedEmotes: ['Squeak']
+    allowedEmotes: ['Squeak', 'RMCNeedMedic']
   - type: Sprite
     netsync: false
     noRot: true

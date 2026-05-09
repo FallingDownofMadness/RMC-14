@@ -21,7 +21,7 @@
       Unsexed: RMCUnisexFelinid
       Female: RMCFemaleFelinid
   - type: Speech
-    allowedEmotes: ['Hiss', 'Meow', 'Mew', 'Growl', 'Purr']
+    allowedEmotes: ['Hiss', 'Meow', 'Mew', 'Growl', 'Purr', 'RMCNeedMedic']
   - type: FixedIdentity
     name: cm-chatsan-replacement-felinid
 

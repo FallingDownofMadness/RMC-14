@@ -19,7 +19,7 @@
   - type: Speech
     speechSounds: Lizard
     speechVerb: Reptilian
-    allowedEmotes: ['Thump', 'Hiss', 'Purr', 'RMCReptileRattle']
+    allowedEmotes: ['Thump', 'Hiss', 'Purr', 'RMCReptileRattle', 'RMCNeedMedic']
   - type: BodyEmotes
     soundsId: RMCReptilianBodyEmotes
   - type: TypingIndicator

@@ -9,7 +9,7 @@
     species: Skrell
   - type: Speech
     speechVerb: Skrell
-    allowedEmotes: [ 'RMCSkrellPeep', 'RMCSkrellAnger', 'RMCSkrellTrill', 'RMCSkrellWarble' ]
+    allowedEmotes: [ 'RMCSkrellPeep', 'RMCSkrellAnger', 'RMCSkrellTrill', 'RMCSkrellWarble', 'RMCNeedMedic' ]
   - type: Vocal
     sounds:
       Male: RMCMaleSkrell
